@@ -1,4 +1,5 @@
 package gom1t
+import "fmt"
 func Tt () {
-  test.Hello()
+  fmt.Println("HELLO")
 }
