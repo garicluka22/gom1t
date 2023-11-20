@@ -7,6 +7,6 @@ import (
 )
 
 func Hello() {
-	fmt.Println("HELLO")
+	fmt.Println("HELLO v2")
 	fmt.Println(uuid.New())
 }
